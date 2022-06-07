@@ -6,4 +6,4 @@ Create segmentation labels using images with removed backgrounds
 
 
 
-![example_fig](https://user-images.githubusercontent.com/37736774/172372131-c30ffb20-4e23-4f39-b948-09e136f21ad0.PNG)
+![example_fig](https://user-images.githubusercontent.com/37736774/172372995-455f4b3c-4f32-49f9-95f9-5789c4b5b06f.PNG)
